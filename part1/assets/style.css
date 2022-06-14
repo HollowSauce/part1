@@ -1,0 +1,39 @@
+@font-face {
+    src: url(fonts/OpenSansCondensed-Bold.ttf);
+    font-family: condensed;
+}
+
+.navbar{
+    background-color: #05386B;
+}
+
+
+body {
+    background-color: #3AAFA9;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom:50px;
+    font-family: condensed;
+}
+
+.info {
+    color: 17252;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.apiLinks {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.apiLinks a{
+    color: white;
+}
+
+
